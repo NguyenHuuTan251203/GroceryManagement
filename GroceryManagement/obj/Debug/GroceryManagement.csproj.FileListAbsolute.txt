@@ -1,0 +1,439 @@
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Pipes.AccessControl.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceModel.Duplex.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceModel.Http.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceModel.NetTcp.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceModel.Primitives.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceModel.Security.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Web.Services.Description.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceModel.Duplex.pdb
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceModel.Http.pdb
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceModel.NetTcp.pdb
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceModel.Primitives.pdb
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceModel.Security.pdb
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Web.Services.Description.pdb
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GroceryManagement.csproj.AssemblyReference.cache
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GroceryManagement.View.AccountManagerForm.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GroceryManagement.AdminForm.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GroceryManagement.View.User.ShoppingBasketForm.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GroceryManagement.View.User.EmployeeForm.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\hd.DetailBillForm.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\hd.BillManagerForm.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\hd.FormLY.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLyTapHoa.CustomerManagerForm.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLyTapHoa.View.GoodsManagement.GoodsManagementForm.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLyTapHoa.View.GoodsManagement.ImportingGoodsForm.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GroceryManagement.LoginForm.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GroceryManagement.View.MessageCustomForm.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GroceryManagement.View.ProcessbarForm.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GroceryManagement.RegistrationForm.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GroceryManagement.View.ThongKeForm.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GroceryManagement.csproj.GenerateResource.cache
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GroceryManagement.csproj.CoreCompileInputs.cache
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GroceryManagement.csproj.CopyComplete
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\study_cder\c#\dotNet\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\GroceryManagement.exe.config
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\GroceryManagement.exe
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\GroceryManagement.pdb
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\EntityFramework.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\EntityFramework.SqlServer.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\Guna.UI2.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\Microsoft.Win32.Registry.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.Buffers.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.Data.SqlClient.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.IO.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.IO.Pipes.AccessControl.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.Memory.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.Numerics.Vectors.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.Runtime.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.Security.AccessControl.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Principal.Windows.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Duplex.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Http.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.NetTcp.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Primitives.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Security.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.Web.Services.Description.dll
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\EntityFramework.xml
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\EntityFramework.SqlServer.xml
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\Microsoft.Win32.Registry.xml
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.Buffers.xml
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.Data.SqlClient.xml
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.Memory.xml
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.Numerics.Vectors.xml
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.Security.AccessControl.xml
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Principal.Windows.xml
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Duplex.pdb
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Http.pdb
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.NetTcp.pdb
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Primitives.pdb
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Security.pdb
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\bin\Debug\System.Web.Services.Description.pdb
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.csproj.AssemblyReference.cache
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.View.AccountManagerForm.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.AdminForm.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.View.User.ShoppingBasketForm.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.View.User.EmployeeForm.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\obj\Debug\hd.DetailBillForm.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\obj\Debug\hd.BillManagerForm.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\obj\Debug\hd.FormLY.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\obj\Debug\QuanLyTapHoa.CustomerManagerForm.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\obj\Debug\QuanLyTapHoa.View.GoodsManagement.GoodsManagementForm.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\obj\Debug\QuanLyTapHoa.View.GoodsManagement.ImportingGoodsForm.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.LoginForm.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.Properties.Resources.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.View.MessageCustomForm.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.View.ProcessbarForm.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.RegistrationForm.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.View.ThongKeForm.resources
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.csproj.GenerateResource.cache
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.csproj.CoreCompileInputs.cache
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.csproj.CopyComplete
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.exe
+D:\study_cder\c#\dotNet\WindowsFormsApp1\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.pdb
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\GroceryManagement.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\GroceryManagement.exe
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\GroceryManagement.pdb
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.CodeDom.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Data.Odbc.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Data.OleDb.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Diagnostics.EventLog.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Drawing.Common.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.IO.Packaging.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.IO.Ports.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Memory.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Permissions.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Duplex.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Security.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Syndication.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceProcess.ServiceController.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Threading.AccessControl.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Web.Services.Description.dll
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.CodeDom.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Data.Odbc.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Data.OleDb.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Drawing.Common.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.IO.Packaging.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.IO.Ports.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Memory.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Permissions.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Duplex.pdb
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Http.pdb
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.NetTcp.pdb
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Security.pdb
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\bin\Debug\System.Web.Services.Description.pdb
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.View.AccountManagerForm.resources
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.AdminForm.resources
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.View.User.ShoppingBasketForm.resources
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.View.User.EmployeeForm.resources
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\obj\Debug\hd.DetailBillForm.resources
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\obj\Debug\hd.BillManagerForm.resources
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\obj\Debug\hd.FormLY.resources
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\obj\Debug\QuanLyTapHoa.CustomerManagerForm.resources
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\obj\Debug\QuanLyTapHoa.View.GoodsManagement.GoodsManagementForm.resources
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\obj\Debug\QuanLyTapHoa.View.GoodsManagement.ImportingGoodsForm.resources
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.LoginForm.resources
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.Properties.Resources.resources
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.View.MessageCustomForm.resources
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.View.ProcessbarForm.resources
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.RegistrationForm.resources
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.View.ThongKeForm.resources
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\obj\Debug\GroceryM.8CCE4E75.Up2Date
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.exe
+C:\Users\Admin\Documents\Zalo Received Files\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.pdb
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\GroceryManagement.exe.config
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\GroceryManagement.exe
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\GroceryManagement.pdb
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\EntityFramework.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\EntityFramework.SqlServer.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\Guna.UI2.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\Microsoft.Win32.Registry.AccessControl.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\Microsoft.Win32.Registry.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\Microsoft.Win32.SystemEvents.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Buffers.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.CodeDom.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Data.Odbc.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Data.OleDb.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Data.SqlClient.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Diagnostics.EventLog.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Drawing.Common.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.IO.Packaging.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.IO.Pipes.AccessControl.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.IO.Ports.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Memory.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Numerics.Vectors.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Security.AccessControl.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Cryptography.Cng.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Permissions.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Principal.Windows.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Duplex.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Http.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.NetTcp.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Primitives.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Security.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Syndication.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceProcess.ServiceController.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Threading.AccessControl.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Web.Services.Description.dll
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\EntityFramework.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\EntityFramework.SqlServer.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\Microsoft.Win32.Registry.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Buffers.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.CodeDom.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Data.Odbc.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Data.OleDb.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Data.SqlClient.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Diagnostics.EventLog.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Drawing.Common.pdb
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Drawing.Common.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.IO.Packaging.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.IO.Ports.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Memory.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Numerics.Vectors.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Security.AccessControl.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Permissions.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Principal.Windows.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Duplex.pdb
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Http.pdb
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.NetTcp.pdb
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Primitives.pdb
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Security.pdb
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Syndication.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Threading.AccessControl.xml
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\bin\Debug\System.Web.Services.Description.pdb
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.csproj.AssemblyReference.cache
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.View.AccountManagerForm.resources
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.AdminForm.resources
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.View.User.ShoppingBasketForm.resources
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.View.User.EmployeeForm.resources
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\obj\Debug\hd.DetailBillForm.resources
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\obj\Debug\hd.BillManagerForm.resources
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\obj\Debug\hd.FormLY.resources
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\obj\Debug\QuanLyTapHoa.CustomerManagerForm.resources
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\obj\Debug\QuanLyTapHoa.View.GoodsManagement.GoodsManagementForm.resources
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\obj\Debug\QuanLyTapHoa.View.GoodsManagement.ImportingGoodsForm.resources
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.LoginForm.resources
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.Properties.Resources.resources
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.View.MessageCustomForm.resources
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.View.ProcessbarForm.resources
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.RegistrationForm.resources
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.View.ThongKeForm.resources
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.csproj.GenerateResource.cache
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.csproj.CoreCompileInputs.cache
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\obj\Debug\GroceryM.8CCE4E75.Up2Date
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.exe
+D:\8_THLT_Net\btl\New folder\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.pdb
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\GroceryManagement.exe.config
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\GroceryManagement.exe
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\GroceryManagement.pdb
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\EntityFramework.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Buffers.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.CodeDom.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Data.Odbc.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Data.OleDb.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Diagnostics.EventLog.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Drawing.Common.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.IO.Packaging.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.IO.Ports.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Memory.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Permissions.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Duplex.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Security.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Syndication.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceProcess.ServiceController.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Threading.AccessControl.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Web.Services.Description.dll
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\EntityFramework.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Buffers.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.CodeDom.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Data.Odbc.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Data.OleDb.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Drawing.Common.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.IO.Packaging.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.IO.Ports.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Memory.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Permissions.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Duplex.pdb
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Http.pdb
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.NetTcp.pdb
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Security.pdb
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\bin\Debug\System.Web.Services.Description.pdb
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.View.AccountManagerForm.resources
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.AdminForm.resources
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\obj\Debug\GioiThieu.Form1.resources
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.View.User.ShoppingBasketForm.resources
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.View.User.EmployeeForm.resources
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\obj\Debug\hd.DetailBillForm.resources
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\obj\Debug\hd.BillManagerForm.resources
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\obj\Debug\hd.FormLY.resources
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\obj\Debug\QuanLyTapHoa.CustomerManagerForm.resources
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\obj\Debug\QuanLyTapHoa.View.GoodsManagement.GoodsManagementForm.resources
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\obj\Debug\QuanLyTapHoa.View.GoodsManagement.ImportingGoodsForm.resources
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.LoginForm.resources
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.View.MessageCustomForm.resources
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.View.ProcessbarForm.resources
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.RegistrationForm.resources
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.View.ThongKeForm.resources
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\obj\Debug\GroceryM.8CCE4E75.Up2Date
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.exe
+C:\Users\Admin\OneDrive\Hình ảnh\GroceryManagement\GroceryManagement\obj\Debug\GroceryManagement.pdb

@@ -1,0 +1,470 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|c:\\users\\admin\\onedrive\\hi\u0300nh a\u0309nh\\grocerymanagement\\grocerymanagement\\view\\admin\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|solutionrelative:grocerymanagement\\view\\admin\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\grocerymanagement\\view\\bill\\detailbillform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|solutionrelative:grocerymanagement\\view\\bill\\detailbillform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\grocerymanagement\\view\\bill\\detailbillform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|solutionrelative:grocerymanagement\\view\\bill\\detailbillform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\grocerymanagement\\view\\admin\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|solutionrelative:grocerymanagement\\view\\admin\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\grocerymanagement\\view\\user\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|solutionrelative:grocerymanagement\\view\\user\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\grocerymanagement\\view\\user\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|solutionrelative:grocerymanagement\\view\\user\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\grocerymanagement\\view\\account\\accountmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|solutionrelative:grocerymanagement\\view\\account\\accountmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\grocerymanagement\\view\\login\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|solutionrelative:grocerymanagement\\view\\login\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\grocerymanagement\\view\\login\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|solutionrelative:grocerymanagement\\view\\login\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\grocerymanagement\\view\\bill\\billmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|solutionrelative:grocerymanagement\\view\\bill\\billmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\grocerymanagement\\view\\bill\\billmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|solutionrelative:grocerymanagement\\view\\bill\\billmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\grocerymanagement\\view\\login\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|solutionrelative:grocerymanagement\\view\\login\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\grocerymanagement\\data\\dbaccessgoods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|solutionrelative:grocerymanagement\\data\\dbaccessgoods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\grocerymanagement\\view\\category\\goodsmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|solutionrelative:grocerymanagement\\view\\category\\goodsmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\grocerymanagement\\view\\customers\\customermanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|solutionrelative:grocerymanagement\\view\\customers\\customermanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\grocerymanagement\\view\\category\\goodsmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|solutionrelative:grocerymanagement\\view\\category\\goodsmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\grocerymanagement\\view\\statitics\\thongkeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|solutionrelative:grocerymanagement\\view\\statitics\\thongkeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\grocerymanagement\\view\\statitics\\thongkeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|solutionrelative:grocerymanagement\\view\\statitics\\thongkeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\grocerymanagement\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|solutionrelative:grocerymanagement\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\grocerymanagement\\data\\dataacess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|solutionrelative:grocerymanagement\\data\\dataacess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\grocerymanagement\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|solutionrelative:grocerymanagement\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\grocerymanagement\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|solutionrelative:grocerymanagement\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\grocerymanagement\\controller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|solutionrelative:grocerymanagement\\controller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\grocerymanagement\\view\\customers\\customermanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|solutionrelative:grocerymanagement\\view\\customers\\customermanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\grocerymanagement\\view\\login\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|solutionrelative:grocerymanagement\\view\\login\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\grocerymanagement\\view\\user\\shoppingbasketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|solutionrelative:grocerymanagement\\view\\user\\shoppingbasketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\grocerymanagement\\view\\user\\shoppingbasketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{581A8993-0AFB-4DA4-9FCE-0A1B7291DF95}|GroceryManagement\\GroceryManagement.csproj|solutionrelative:grocerymanagement\\view\\user\\shoppingbasketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetailBillForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Bill\\DetailBillForm.cs",
+              "RelativeDocumentMoniker": "GroceryManagement\\View\\Bill\\DetailBillForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Bill\\DetailBillForm.cs",
+              "RelativeToolTip": "GroceryManagement\\View\\Bill\\DetailBillForm.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:27:06.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetailBillForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Bill\\DetailBillForm.cs",
+              "RelativeDocumentMoniker": "GroceryManagement\\View\\Bill\\DetailBillForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Bill\\DetailBillForm.cs [Design]",
+              "RelativeToolTip": "GroceryManagement\\View\\Bill\\DetailBillForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:27:05.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Admin\\AdminForm.cs",
+              "RelativeDocumentMoniker": "GroceryManagement\\View\\Admin\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Admin\\AdminForm.cs",
+              "RelativeToolTip": "GroceryManagement\\View\\Admin\\AdminForm.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwE4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:24:54.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Admin\\AdminForm.cs",
+              "RelativeDocumentMoniker": "GroceryManagement\\View\\Admin\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Admin\\AdminForm.cs [Design]",
+              "RelativeToolTip": "GroceryManagement\\View\\Admin\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:24:52.574Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\User\\Employee.cs",
+              "RelativeDocumentMoniker": "GroceryManagement\\View\\User\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\User\\Employee.cs",
+              "RelativeToolTip": "GroceryManagement\\View\\User\\Employee.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAiwIoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T01:21:48.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountManagerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Account\\AccountManagerForm.cs",
+              "RelativeDocumentMoniker": "GroceryManagement\\View\\Account\\AccountManagerForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Account\\AccountManagerForm.cs [Design]",
+              "RelativeToolTip": "GroceryManagement\\View\\Account\\AccountManagerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T05:50:48.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\User\\Employee.cs",
+              "RelativeDocumentMoniker": "GroceryManagement\\View\\User\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\User\\Employee.cs [Design]",
+              "RelativeToolTip": "GroceryManagement\\View\\User\\Employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:57:14.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegistrationForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Login\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "GroceryManagement\\View\\Login\\RegistrationForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Login\\RegistrationForm.cs",
+              "RelativeToolTip": "GroceryManagement\\View\\Login\\RegistrationForm.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAnwFAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T05:58:30.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegistrationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Login\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "GroceryManagement\\View\\Login\\RegistrationForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Login\\RegistrationForm.cs [Design]",
+              "RelativeToolTip": "GroceryManagement\\View\\Login\\RegistrationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T05:55:48.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Login\\LoginForm.cs",
+              "RelativeDocumentMoniker": "GroceryManagement\\View\\Login\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Login\\LoginForm.cs [Design]",
+              "RelativeToolTip": "GroceryManagement\\View\\Login\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T05:55:43.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DBAccessGoods.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\Data\\DBAccessGoods.cs",
+              "RelativeDocumentMoniker": "GroceryManagement\\Data\\DBAccessGoods.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\Data\\DBAccessGoods.cs",
+              "RelativeToolTip": "GroceryManagement\\Data\\DBAccessGoods.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAvwIsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:47:30.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BillManagerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Bill\\BillManagerForm.cs",
+              "RelativeDocumentMoniker": "GroceryManagement\\View\\Bill\\BillManagerForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Bill\\BillManagerForm.cs [Design]",
+              "RelativeToolTip": "GroceryManagement\\View\\Bill\\BillManagerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T00:28:17.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BillManagerForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Bill\\BillManagerForm.cs",
+              "RelativeDocumentMoniker": "GroceryManagement\\View\\Bill\\BillManagerForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Bill\\BillManagerForm.cs",
+              "RelativeToolTip": "GroceryManagement\\View\\Bill\\BillManagerForm.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwEsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T00:53:07.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GoodsManagementForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Category\\GoodsManagementForm.cs",
+              "RelativeDocumentMoniker": "GroceryManagement\\View\\Category\\GoodsManagementForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Category\\GoodsManagementForm.cs",
+              "RelativeToolTip": "GroceryManagement\\View\\Category\\GoodsManagementForm.cs",
+              "ViewState": "AgIAAI8DAAAAAAAAAAAkwJEDAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:11:52.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerManagerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Customers\\CustomerManagerForm.cs",
+              "RelativeDocumentMoniker": "GroceryManagement\\View\\Customers\\CustomerManagerForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Customers\\CustomerManagerForm.cs [Design]",
+              "RelativeToolTip": "GroceryManagement\\View\\Customers\\CustomerManagerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:18:54.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GoodsManagementForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Category\\GoodsManagementForm.cs",
+              "RelativeDocumentMoniker": "GroceryManagement\\View\\Category\\GoodsManagementForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Category\\GoodsManagementForm.cs [Design]",
+              "RelativeToolTip": "GroceryManagement\\View\\Category\\GoodsManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:51:54.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ThongKeForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Statitics\\ThongKeForm.cs",
+              "RelativeDocumentMoniker": "GroceryManagement\\View\\Statitics\\ThongKeForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Statitics\\ThongKeForm.cs",
+              "RelativeToolTip": "GroceryManagement\\View\\Statitics\\ThongKeForm.cs",
+              "ViewState": "AgIAAAIDAAAAAAAAAAAawBwDAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:03:38.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ThongKeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Statitics\\ThongKeForm.cs",
+              "RelativeDocumentMoniker": "GroceryManagement\\View\\Statitics\\ThongKeForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Statitics\\ThongKeForm.cs [Design]",
+              "RelativeToolTip": "GroceryManagement\\View\\Statitics\\ThongKeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:03:36.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DataAcess.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\Data\\DataAcess.cs",
+              "RelativeDocumentMoniker": "GroceryManagement\\Data\\DataAcess.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\Data\\DataAcess.cs",
+              "RelativeToolTip": "GroceryManagement\\Data\\DataAcess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:47:32.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\App.config",
+              "RelativeDocumentMoniker": "GroceryManagement\\App.config",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\App.config",
+              "RelativeToolTip": "GroceryManagement\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-21T10:45:30.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\Controller\\Program.cs",
+              "RelativeDocumentMoniker": "GroceryManagement\\Controller\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\Controller\\Program.cs",
+              "RelativeToolTip": "GroceryManagement\\Controller\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:25:39.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "GroceryManagement\\View\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Form1.cs",
+              "RelativeToolTip": "GroceryManagement\\View\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:24:34.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "GroceryManagement\\View\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Form1.cs [Design]",
+              "RelativeToolTip": "GroceryManagement\\View\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:23:01.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerManagerForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Customers\\CustomerManagerForm.cs",
+              "RelativeDocumentMoniker": "GroceryManagement\\View\\Customers\\CustomerManagerForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Customers\\CustomerManagerForm.cs",
+              "RelativeToolTip": "GroceryManagement\\View\\Customers\\CustomerManagerForm.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAUwEcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:18:57.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Login\\LoginForm.cs",
+              "RelativeDocumentMoniker": "GroceryManagement\\View\\Login\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\Login\\LoginForm.cs",
+              "RelativeToolTip": "GroceryManagement\\View\\Login\\LoginForm.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T05:55:45.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShoppingBasketForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\User\\ShoppingBasketForm.cs",
+              "RelativeDocumentMoniker": "GroceryManagement\\View\\User\\ShoppingBasketForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\User\\ShoppingBasketForm.cs",
+              "RelativeToolTip": "GroceryManagement\\View\\User\\ShoppingBasketForm.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEIAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:05:58.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ShoppingBasketForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\User\\ShoppingBasketForm.cs",
+              "RelativeDocumentMoniker": "GroceryManagement\\View\\User\\ShoppingBasketForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Hi\u0300nh a\u0309nh\\GroceryManagement\\GroceryManagement\\View\\User\\ShoppingBasketForm.cs [Design]",
+              "RelativeToolTip": "GroceryManagement\\View\\User\\ShoppingBasketForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:57:08.412Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

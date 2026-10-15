@@ -1,0 +1,130 @@
+﻿
+INSERT INTO HoaDon (SoHD, NgayBan, MaKH, MaNV, ChiTietHoaDon)
+SELECT 
+    @SoHD, 
+    @NgayBan, 
+    KH.MaKH, 
+    NV.MaNV, 
+    CONCAT(HH.Mahang, ',', @Soluong, ',', @DonGiaBan)
+FROM 
+    KhachHang KH
+JOIN 
+    NhanVien NV ON NV.MaNV = @MaNV
+JOIN 
+    HangHoa HH ON HH.TenKH = KH.TenKH  
+WHERE 
+    KH.MaKH = @MaKH;
+
+
+use QuanLyTapHoa
+go
+CREATE TRIGGER trg_InsertCT_HoaDon
+ON HoaDon
+AFTER INSERT
+AS
+BEGIN
+    -- Khai báo các biến
+    DECLARE @SoHD INT;
+    DECLARE @ChiTietHoaDon NVARCHAR(MAX);
+    
+    -- Lấy giá trị từ bảng inserted
+    SELECT @SoHD = SoHD, @ChiTietHoaDon = ChiTietHoaDon FROM inserted;
+
+    -- Cắt chuỗi trong cột ChiTietHoaDon thành các phần tử
+    -- Giả sử chuỗi có cấu trúc "Mahang,Soluong,DonGiaBan"
+    DECLARE @Mahang NVARCHAR(50), @Soluong INT, @DonGiaBan DECIMAL(18, 2);
+
+    -- Tách chuỗi và gán vào các biến
+    SET @Mahang = PARSENAME(REPLACE(@ChiTietHoaDon, ',', '.'), 3);  -- Lấy Mahang
+    SET @Soluong = CAST(PARSENAME(REPLACE(@ChiTietHoaDon, ',', '.'), 2) AS INT);  -- Lấy Soluong
+    SET @DonGiaBan = CAST(PARSENAME(REPLACE(@ChiTietHoaDon, ',', '.'), 1) AS DECIMAL(18, 2));  -- Lấy DonGiaBan
+
+    -- Chèn vào bảng CT_HoaDon
+    INSERT INTO CT_HoaDon (SoHD, Mahang, Soluong, DonGiaBan)
+    VALUES (@SoHD, @Mahang, @Soluong, @DonGiaBan);
+END;
+
+
+bai cua cong ly
+       #region 
+            //    selectedValues.Clear();
+
+            //    // Lấy các sản phẩm được chọn từ DataGridView
+            //    foreach (DataGridViewRow row in dtgvTK.Rows)
+            //    {
+            //        bool isChecked = Convert.ToBoolean(row.Cells[0].Value);
+            //        if (isChecked)
+            //        {
+            //            soLuongHangHoa++;
+            //            string value = row.Cells[1].Value.ToString();
+            //            selectedValues.Add(value);
+            //        }
+            //    }
+
+            //    // Duyệt qua từng sản phẩm được chọn
+            //    HashSet<string> uniqueSelectedValues = new HashSet<string>(selectedValues);
+            //    lbSoLuongSanPham.Text = soLuongHangHoa.ToString();
+
+            //    foreach (string ma in uniqueSelectedValues)
+            //    {
+            //        // Lấy thông tin sản phẩm từ CSDL
+            //        string sql = "SELECT * FROM Hanghoa WHERE Mahang = '" + ma + "'";
+            //        DataTable dt = DataAcess.getTable(sql);
+
+            //        foreach (DataRow row in dt.Rows)
+            //        {
+            //            int soLuongTon = Convert.ToInt32(row["Soluong"]); // Lấy số lượng tồn kho từ CSDL
+            //            bool foundInCart = false;
+
+            //            // Kiểm tra xem sản phẩm đã có trong giỏ hàng chưa
+            //            foreach (DataGridViewRow gioHangRow in GioHang.data.Rows)
+            //            {
+            //                if (gioHangRow.Cells[0].Value != null && gioHangRow.Cells[0].Value.ToString() == row["Mahang"].ToString())
+            //                {
+            //                    // Nếu có, cập nhật số lượng sản phẩm trong giỏ hàng
+            //                    int currentQuantity = Convert.ToInt32(gioHangRow.Cells[4].Value);
+            //                    int newQuantity = currentQuantity + 1;
+
+            //                    // Kiểm tra nếu số lượng mới vượt quá số lượng tồn kho
+            //                    if (newQuantity > soLuongTon)
+            //                    {
+            //                        // Nếu vượt quá, hiển thị thông báo và bỏ qua
+            //                        MessageBox.Show($"Sản phẩm {row["Tenhang"]} không thể thêm vào giỏ hàng vì số lượng vượt quá tồn kho.");
+            //                        return; // Bỏ qua và tiếp tục với các sản phẩm khác
+            //                    }
+
+            //                    // Cập nhật số lượng và thành tiền trong giỏ hàng
+            //                    gioHangRow.Cells[4].Value = newQuantity;
+            //                    gioHangRow.Cells[5].Value = newQuantity * Convert.ToDouble(gioHangRow.Cells[3].Value);
+            //                    foundInCart = true;
+            //                    break;
+            //                }
+            //            }
+
+            //            // Nếu sản phẩm chưa có trong giỏ hàng, thêm mới vào giỏ hàng
+            //            if (!foundInCart)
+            //            {
+            //                if (1 > soLuongTon)
+            //                {
+            //                    // Nếu số lượng không đủ, thông báo và bỏ qua sản phẩm này
+            //                    MessageBox.Show($"Số lượng sản phẩm {row["Tenhang"]} không đủ trong kho.");
+            //                }
+            //                else
+            //                {
+
+
+
+            //                }
+            //            }
+            //        }
+            //    }
+            //    TongTien();
+            //    foreach (DataGridViewRow row in dtgvTK.Rows)
+            //    {
+            //        bool isChecked = Convert.ToBoolean(row.Cells[0].Value);
+            //        if (isChecked)
+            //        {
+            //            row.Cells[0].Value = false;
+            //        }
+            //    }
+            #endregion

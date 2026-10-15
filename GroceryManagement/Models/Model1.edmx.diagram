@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="02e82f98c3ef4a09a8ab71daf89281fa" Name="Diagram1">
+        <EntityTypeShape EntityType="QuanLyTapHoaModel.CT_Hoadon" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyTapHoaModel.Hanghoa" Width="1.5" PointX="3" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyTapHoaModel.Hoadon" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyTapHoaModel.Khachhang" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyTapHoaModel.Loaihang" Width="1.5" PointX="0.75" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyTapHoaModel.Nhanvien" Width="1.5" PointX="0.75" PointY="5" IsExpanded="true" />
+        <AssociationConnector Association="QuanLyTapHoaModel.FK__CT_Hoadon__Mahan__5441852A" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyTapHoaModel.FK__CT_Hoadon__SoHD__5535A963" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyTapHoaModel.FK__Hanghoa__Loaihan__5629CD9C" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyTapHoaModel.FK__Hoadon__MaKH__571DF1D5" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyTapHoaModel.FK__Hoadon__MaNV__5812160E" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="QuanLyTapHoaModel.sysdiagram" Width="1.5" PointX="3.375" PointY="4.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
